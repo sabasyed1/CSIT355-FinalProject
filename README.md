@@ -12,7 +12,7 @@ Username: admin &
 Password: admin
 
 ### Features 
-he reason behind the website is the site’s main idea is simple to create but not overly simple. The products on the website are Pizza, Specialty Pizza, Side Orders, Pastas, Salad, and Beverages. The pictures of the products are from google.
+The reason behind the website is the site’s main idea is simple to create but not overly simple. The products on the website are Pizza, Specialty Pizza, Side Orders, Pastas, Salad, and Beverages. The pictures of the products are from google.
 The views of the website are user and admin. The user is not allowed to do much on the website but to add products to their cart and check out. The admin has administrative functionalities which make the admin different from the user. The search bar allows the user and admin to search up product names. The admin is able to add products into the website, The admin is able to remove products. The modify function is the admin is able to edit the product. The user information is also able to change their email, address, and phone number. 
 
 ### More about the site. 
